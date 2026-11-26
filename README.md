@@ -26,7 +26,7 @@ Composer >= 2.x
 
 Node.js >= 18.x & npm
 
-MySQL >= 8.0
+Postgre >= 17
 
 ⚙️ Installation & Lancement
 
