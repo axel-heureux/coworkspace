@@ -10,7 +10,7 @@ Backend : Symfony 7 (PHP 8.2+), API RESTful
 
 Frontend : React.js (Single Page Application)
 
-Base de Données : MySQL avec Doctrine ORM
+Base de Données : Supabase avec Doctrine ORM
 
 Authentification : JWT (LexikJWTAuthenticationBundle)
 
